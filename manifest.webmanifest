@@ -1,0 +1,16 @@
+{
+  "id": "/",
+  "name": "Abel | Aplicativo escolar",
+  "short_name": "Abel",
+  "description": "Aplicativo escolar Abel com informações da escola e perfil do desenvolvedor.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f7f5",
+  "theme_color": "#176a48",
+  "icons": [
+    { "src": "/assets/abel-mark.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
